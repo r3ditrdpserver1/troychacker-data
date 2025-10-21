@@ -60,6 +60,12 @@
             "date": "2025-10-22",
             "critical": true,
             "description": "Güvenlik güncellemesi"
+        },
+        {
+            "version": "1.0.2",
+            "date": "2025-10-21",
+            "critical": true,
+            "description": "wqdqwdfwqd"
         }
     ],
     "settings": {
