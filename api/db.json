@@ -1,62 +1,62 @@
 {
-  "version": "1.1.0",
-  "last_update": "2025-10-22",
-  "update_url": "https://github.com/kullanici/repo/raw/main/db.json",
-  "changelog": [
-    "Yeni key format\u0131 eklendi",
-    "G\u00fcvenlik g\u00fcncellemeleri",
-    "Performans iyile\u015ftirmeleri"
-  ],
-  "keys": [
-    {
-      "id": "7",
-      "key_code": "DEFACTO-JV87U4I5",
-      "hardware_id": null,
-      "expiry_date": "2025-11-20",
-      "is_frozen": "0",
-      "last_used": null,
-      "created_at": "2025-10-21 14:45:31",
-      "created_by": "admin",
-      "max_devices": "1",
-      "used_devices": null
-    },
-    {
-      "id": "3",
-      "key_code": "DEFACTO-7X9P-2R8K-1T3M",
-      "hardware_id": "88a942c944ef6ee260210f5119e9d427",
-      "expiry_date": "2025-11-20",
-      "is_frozen": "0",
-      "last_used": "2025-10-22 01:20:52",
-      "created_at": "2025-10-21 14:23:23",
-      "created_by": "admin",
-      "max_devices": "1",
-      "used_devices": 1
-    },
-    {
-      "id": "2",
-      "key_code": "WSQU9WEE9OKL",
-      "hardware_id": null,
-      "expiry_date": "2025-11-20",
-      "is_frozen": "1",
-      "last_used": null,
-      "created_at": "2025-10-21 13:13:48",
-      "created_by": "admin",
-      "max_devices": "1",
-      "used_devices": null
+    "version": "1.1.0",
+    "last_update": "2025-10-22",
+    "update_url": "https:\/\/github.com\/kullanici\/repo\/raw\/main\/db.json",
+    "changelog": [
+        "Yeni key formatı eklendi",
+        "Güvenlik güncellemeleri",
+        "Performans iyileştirmeleri"
+    ],
+    "keys": [
+        {
+            "id": "7",
+            "key_code": "DEFACTO-JV87U4I5",
+            "hardware_id": null,
+            "expiry_date": "2025-11-20",
+            "is_frozen": "0",
+            "last_used": null,
+            "created_at": "2025-10-21 14:45:31",
+            "created_by": "admin",
+            "max_devices": "1",
+            "used_devices": null
+        },
+        {
+            "id": "3",
+            "key_code": "DEFACTO-7X9P-2R8K-1T3M",
+            "hardware_id": null,
+            "expiry_date": "2025-11-20",
+            "is_frozen": "0",
+            "last_used": null,
+            "created_at": "2025-10-21 14:23:23",
+            "created_by": "admin",
+            "max_devices": "1",
+            "used_devices": "0"
+        },
+        {
+            "id": "2",
+            "key_code": "WSQU9WEE9OKL",
+            "hardware_id": null,
+            "expiry_date": "2025-11-20",
+            "is_frozen": "1",
+            "last_used": null,
+            "created_at": "2025-10-21 13:13:48",
+            "created_by": "admin",
+            "max_devices": "1",
+            "used_devices": null
+        }
+    ],
+    "updates": [
+        {
+            "version": "1.1.0",
+            "date": "2025-10-22",
+            "critical": true,
+            "description": "Güvenlik güncellemesi"
+        }
+    ],
+    "settings": {
+        "high_value_threshold": 1000,
+        "auto_send_delay": 10,
+        "auto_update": true,
+        "update_check_interval": 24
     }
-  ],
-  "updates": [
-    {
-      "version": "1.1.0",
-      "date": "2025-10-22",
-      "critical": true,
-      "description": "G\u00fcvenlik g\u00fcncellemesi"
-    }
-  ],
-  "settings": {
-    "high_value_threshold": 1000,
-    "auto_send_delay": 10,
-    "auto_update": true,
-    "update_check_interval": 24
-  }
 }
