@@ -1,29 +1,34 @@
 {
+    "version": "1.1.0",
+    "last_update": "2025-10-22",
+    "update_url": "https://github.com/kullanici/repo/raw/main/db.json",
+    "changelog": [
+        "Yeni key formatı eklendi",
+        "Güvenlik güncellemeleri",
+        "Performans iyileştirmeleri"
+    ],
     "keys": [
         {
-            "id": "13",
             "key_code": "DEFACTO-7X9P-2R8K-1T3M",
+            "expiry_date": "2026-04-09",
+            "is_frozen": false,
             "hardware_id": null,
-            "expiry_date": "2025-11-20",
-            "is_frozen": "0",
-            "last_used": null,
-            "created_at": "2025-10-21 11:24:43",
-            "created_by": "admin"
-        },
-        {
-            "id": "12",
-            "key_code": "WSQU9WEE9OKL",
-            "hardware_id": null,
-            "expiry_date": "2025-11-20",
-            "is_frozen": "1",
-            "last_used": null,
-            "created_at": "2025-10-21 11:24:10",
+            "created_at": "2025-10-21 10:23:41",
             "created_by": "admin"
         }
     ],
-    "updates": [],
+    "updates": [
+        {
+            "version": "1.1.0",
+            "date": "2025-10-22",
+            "critical": true,
+            "description": "Güvenlik güncellemesi"
+        }
+    ],
     "settings": {
         "high_value_threshold": 1000,
-        "auto_send_delay": 10
+        "auto_send_delay": 10,
+        "auto_update": true,
+        "update_check_interval": 24
     }
 }
