@@ -6,6 +6,13 @@
             "is_frozen": 1,
             "hardware_id": null,
             "last_used": null
+        },
+        {
+            "key_code": "DEFACTO-7X9P-2R8K-1T3M",
+            "expiry_date": "2025-11-20",
+            "is_frozen": 0,
+            "hardware_id": null,
+            "last_used": null
         }
     ],
     "updates": [],
