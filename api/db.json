@@ -43,6 +43,15 @@
             "created_by": "admin",
             "max_devices": "1",
             "used_devices": null
+        },
+        {
+            "key_code": "satıslık1adetsel",
+            "expiry_date": "2025-11-21",
+            "is_frozen": 0,
+            "hardware_id": null,
+            "last_used": null,
+            "max_devices": 1,
+            "used_devices": 0
         }
     ],
     "updates": [
