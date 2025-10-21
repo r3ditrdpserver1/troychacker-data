@@ -13,6 +13,13 @@
             "is_frozen": 0,
             "hardware_id": null,
             "last_used": null
+        },
+        {
+            "key_code": "TEST_1761071110",
+            "expiry_date": "2025-11-20",
+            "is_frozen": false,
+            "hardware_id": null,
+            "last_used": "2025-10-21 14:25:10"
         }
     ],
     "updates": [],
