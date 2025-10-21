@@ -43,15 +43,6 @@
             "created_by": "admin",
             "max_devices": "1",
             "used_devices": "0"
-        },
-        {
-            "key_code": "TEST_1761084188",
-            "expiry_date": "2025-11-20",
-            "is_frozen": false,
-            "hardware_id": null,
-            "last_used": "2025-10-21 18:03:08",
-            "max_devices": 1,
-            "used_devices": 0
         }
     ],
     "updates": [
