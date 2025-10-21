@@ -1,8 +1,17 @@
 {
-  "keys": [],
-  "updates": [],
-  "settings": {
-    "high_value_threshold": 1000,
-    "auto_send_delay": 10
-  }
+    "keys": [
+        {
+            "key_code": "TEST_1761067363",
+            "expiry_date": "2025-11-20",
+            "is_frozen": false,
+            "hardware_id": null,
+            "created_at": "2025-10-21 13:22:43",
+            "created_by": "debug"
+        }
+    ],
+    "updates": [],
+    "settings": {
+        "high_value_threshold": 1000,
+        "auto_send_delay": 10
+    }
 }
