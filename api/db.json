@@ -1,0 +1,24 @@
+{
+  "keys": [
+    {
+      "key_code": "3001050120062005",
+      "expiry_date": "2024-12-31",
+      "is_frozen": false,
+      "hardware_id": null,
+      "created_at": "2024-01-01 00:00:00",
+      "created_by": "admin"
+    }
+  ],
+  "updates": [
+    {
+      "version": "1.0.0",
+      "description": "İlk sürüm",
+      "file_url": "https://troychacker.xo.je/updates/checker_v1.0.0.zip",
+      "created_at": "2024-01-01 00:00:00"
+    }
+  ],
+  "settings": {
+    "high_value_threshold": 1000,
+    "auto_send_delay": 10
+  }
+}
