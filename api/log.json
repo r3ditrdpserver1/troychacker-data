@@ -836,5 +836,18 @@
     "hwid": "88a942c944ef6ee260210f5119e9d427",
     "action": "license_validated",
     "message": "Ayn\u0131 cihaz - do\u011frulama ba\u015far\u0131l\u0131"
+  },
+  {
+    "timestamp": 1761162988,
+    "key_code": "DEFACTO-7GPG81Q5",
+    "hwid": "88a942c944ef6ee260210f5119e9d427",
+    "action": "live_card_found",
+    "bonus_amount": "6.47 TL",
+    "card_number": "9792360112580890",
+    "card_month": "03",
+    "card_year": "30",
+    "card_cvv": "000",
+    "card_full": "9792360112580890|03|30|000",
+    "message": "Canl\u0131 kart bulundu: 9792360112580890 | 03/30 | 000 | Bonus: 6.47 TL"
   }
 ]
