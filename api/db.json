@@ -76,6 +76,15 @@
             "last_used": null,
             "max_devices": 1,
             "used_devices": 0
+        },
+        {
+            "key_code": "DEFACTO-2XHO3Q0R",
+            "expiry_date": "2025-11-29",
+            "is_frozen": 0,
+            "hardware_id": null,
+            "last_used": null,
+            "max_devices": 1,
+            "used_devices": 0
         }
     ],
     "updates": [
