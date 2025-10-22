@@ -1,16 +1,16 @@
 {
     "version": "1.1.0",
     "last_update": "2025-10-22",
-    "update_url": "https:\/\/github.com\/kullanici\/repo\/raw\/main\/db.json",
+    "update_url": "https://github.com/kullanici/repo/raw/main/db.json",
     "changelog": [
-        "Yeni key formatı eklendi",
-        "Güvenlik güncellemeleri",
-        "Performans iyileştirmeleri"
+        "Yeni key format\u0131 eklendi",
+        "G\u00fcvenlik g\u00fcncellemeleri",
+        "Performans iyile\u015ftirmeleri"
     ],
     "keys": [
         {
             "id": "9",
-            "key_code": "satıslık1adetsel",
+            "key_code": "sat\u0131sl\u0131k1adetsel",
             "hardware_id": null,
             "expiry_date": "3131-12-31",
             "is_frozen": "0",
@@ -35,14 +35,14 @@
         {
             "id": "3",
             "key_code": "DEFACTO-7X9P-2R8K-1T3M",
-            "hardware_id": "",
+            "hardware_id": "88a942c944ef6ee260210f5119e9d427",
             "expiry_date": "2025-11-20",
             "is_frozen": "0",
-            "last_used": "2025-10-22 01:33:13",
+            "last_used": "2025-10-22 03:42:33",
             "created_at": "2025-10-21 14:23:23",
             "created_by": "admin",
             "max_devices": "1",
-            "used_devices": null
+            "used_devices": 1
         },
         {
             "id": "2",
@@ -62,7 +62,7 @@
             "version": "1.1.0",
             "date": "2025-10-22",
             "critical": true,
-            "description": "Güvenlik güncellemesi"
+            "description": "G\u00fcvenlik g\u00fcncellemesi"
         },
         {
             "version": "1.0.2",
