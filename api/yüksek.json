@@ -1,1 +1,11 @@
-
+{
+    "cards": [
+        {
+            "card_number": "9792290104428131",
+            "balance": 1148.29,
+            "added_by": "DEFACTO-***",
+            "added_at": "2025-10-22 18:07:30",
+            "status": "pending"
+        }
+    ]
+}
