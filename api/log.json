@@ -12,5 +12,14 @@
     "hwid": "88a942c944ef6ee260210f5119e9d427",
     "action": "checker_started",
     "message": "Checker ba\u015flat\u0131ld\u0131 - BIN: 97922901044281"
+  },
+  {
+    "timestamp": 1761148678,
+    "key_code": "DEFACTO-7GPG81Q5",
+    "hwid": "88a942c944ef6ee260210f5119e9d427",
+    "action": "live_card_found",
+    "bonus_amount": "4222.77 TL",
+    "card_number": "979229***8123",
+    "message": "Canl\u0131 kart bulundu: 4222.77 TL"
   }
 ]
