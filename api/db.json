@@ -19,6 +19,15 @@
             "created_by": "admin",
             "max_devices": "1",
             "used_devices": "1"
+        },
+        {
+            "key_code": "DEFACTO-7GPG81Q5",
+            "expiry_date": "3030-12-31",
+            "is_frozen": 0,
+            "hardware_id": null,
+            "last_used": null,
+            "max_devices": 1,
+            "used_devices": 0
         }
     ],
     "updates": [
