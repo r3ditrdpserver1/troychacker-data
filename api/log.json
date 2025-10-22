@@ -188,5 +188,12 @@
     "hwid": "54db13d430a1d22f0929736e5648bdef",
     "action": "hwid_updated",
     "message": "\u0130lk kullan\u0131m - HWID kaydedildi"
+  },
+  {
+    "timestamp": 1761158208,
+    "key_code": "SECRET-0O46RQ54",
+    "hwid": "54db13d430a1d22f0929736e5648bdef",
+    "action": "checker_started",
+    "message": "Checker ba\u015flat\u0131ld\u0131 - BIN: 97922901044281 | Toplam Kart: 100"
   }
 ]
