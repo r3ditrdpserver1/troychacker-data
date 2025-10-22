@@ -440,5 +440,18 @@
     "hwid": "54db13d430a1d22f0929736e5648bdef",
     "action": "license_validated",
     "message": "Ayn\u0131 cihaz - do\u011frulama ba\u015far\u0131l\u0131"
+  },
+  {
+    "timestamp": 1761159693,
+    "key_code": "SECRET-0O46RQ54",
+    "hwid": "54db13d430a1d22f0929736e5648bdef",
+    "action": "live_card_found",
+    "bonus_amount": "267.19 TL",
+    "card_number": "9792290104444039",
+    "card_month": "11",
+    "card_year": "28",
+    "card_cvv": "000",
+    "card_full": "9792290104444039|11|28|000",
+    "message": "Canl\u0131 kart bulundu: 9792290104444039 | 11/28 | 000 | Bonus: 267.19 TL"
   }
 ]
