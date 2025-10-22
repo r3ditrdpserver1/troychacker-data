@@ -31,18 +31,6 @@
             "created_by": "admin",
             "max_devices": "1",
             "used_devices": "1"
-        },
-        {
-            "id": "2",
-            "key_code": "WSQU9WEE9OKL",
-            "hardware_id": null,
-            "expiry_date": "2025-11-20",
-            "is_frozen": "1",
-            "last_used": null,
-            "created_at": "2025-10-21 13:13:48",
-            "created_by": "admin",
-            "max_devices": "1",
-            "used_devices": null
         }
     ],
     "updates": [
