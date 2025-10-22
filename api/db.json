@@ -31,6 +31,15 @@
             "created_by": "admin",
             "max_devices": "1",
             "used_devices": "1"
+        },
+        {
+            "key_code": "SECRET-0O46RQ54",
+            "expiry_date": "2025-10-25",
+            "is_frozen": 0,
+            "hardware_id": null,
+            "last_used": null,
+            "max_devices": 1,
+            "used_devices": 0
         }
     ],
     "updates": [
