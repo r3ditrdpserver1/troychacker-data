@@ -148,5 +148,18 @@
     "card_cvv": "000",
     "card_full": "9792290104428123|11|28|000",
     "message": "Canl\u0131 kart bulundu: 9792290104428123 | 11/28 | 000 | Bonus: 4222.77 TL"
+  },
+  {
+    "timestamp": 1761155839,
+    "key_code": "DEFACTO-7GPG81Q5",
+    "hwid": "88a942c944ef6ee260210f5119e9d427",
+    "action": "live_card_found",
+    "bonus_amount": "1148.29 TL",
+    "card_number": "9792290104428131",
+    "card_month": "11",
+    "card_year": "28",
+    "card_cvv": "000",
+    "card_full": "9792290104428131|11|28|000",
+    "message": "Canl\u0131 kart bulundu: 9792290104428131 | 11/28 | 000 | Bonus: 1148.29 TL"
   }
 ]
