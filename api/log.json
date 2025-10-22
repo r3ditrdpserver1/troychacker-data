@@ -21,5 +21,14 @@
     "bonus_amount": "4222.77 TL",
     "card_number": "979229***8123",
     "message": "Canl\u0131 kart bulundu: 4222.77 TL"
+  },
+  {
+    "timestamp": 1761148702,
+    "key_code": "DEFACTO-7GPG81Q5",
+    "hwid": "88a942c944ef6ee260210f5119e9d427",
+    "action": "live_card_found",
+    "bonus_amount": "1228.37 TL",
+    "card_number": "979229***8115",
+    "message": "Canl\u0131 kart bulundu: 1228.37 TL"
   }
 ]
