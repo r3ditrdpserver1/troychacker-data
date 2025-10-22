@@ -1405,5 +1405,12 @@
     "hwid": "88a942c944ef6ee260210f5119e9d427",
     "action": "checker_started",
     "message": "Checker ba\u015flat\u0131ld\u0131 - BIN: 9792936011258 | Toplam Kart: 10000"
+  },
+  {
+    "timestamp": 1761176711,
+    "key_code": "DEFACTO-7GPG81Q5",
+    "hwid": "88a942c944ef6ee260210f5119e9d427",
+    "action": "license_validated",
+    "message": "Ayn\u0131 cihaz - do\u011frulama ba\u015far\u0131l\u0131"
   }
 ]
