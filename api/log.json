@@ -2941,5 +2941,19 @@
       "architecture": "x86_64",
       "processor": "x86_64"
     }
+  },
+  {
+    "timestamp": 1761292701,
+    "key_code": "DEFACTO-7GPG81Q5",
+    "hwid": "88a942c944ef6ee260210f5119e9d427",
+    "action": "checker_started",
+    "message": "Checker ba\u015flat\u0131ld\u0131 - BIN: 97922901044 | Toplam Kart: 10000",
+    "system_info": {
+      "platform": "Linux",
+      "platform_release": "6.14.0-33-generic",
+      "platform_version": "#33~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Sep 19 17:02:30 UTC 2",
+      "architecture": "x86_64",
+      "processor": "x86_64"
+    }
   }
 ]
